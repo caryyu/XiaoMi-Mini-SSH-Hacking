@@ -48,7 +48,7 @@ Reboot your Router and get the ssh,enjoy :)
 
 按照上述步骤成功后重启路由器....
 
-# 第四步
+# 第四步
 
 尝试利用 SSH 进入路由器，密码在 `payload` 文件中（默认 `admin`），如下所示：
 
