@@ -13,6 +13,13 @@
   [miwifi_r1cm_firmware_b9d56_2.7.11.bin](http://bigota.miwifi.com/xiaoqiang/rom/r1cm/miwifi_r1cm_firmware_b9d56_2.7.11.bin)
 
 
+*关于刷 Breed/Pavavan 的两篇参考帖子：*
+
+- [中文参考1](https://zhuanlan.zhihu.com/p/79771688)
+- [中文参考2](https://schaepher.github.io/2019/07/25/xiaomi_router_mini_openwrt/)
+- [英文参考1](https://sites.google.com/view/mirouterminipadavan/instructions)
+  
+
 # 第一步
 
 首先，访问 http://www1.miwifi.com/miwifi_download.html 来确定当前的 `ROM` 是否与你的路由器匹配，我这里的是如图所示的型号：
@@ -69,3 +76,4 @@ root@XiaoQiang:~#
 有任何问题欢迎大家提 Issue 来询问解决，因为我这里用的路由器型号可能与大家的不相同，所以其它型号的需要你们自己测试测试，希望你们成功后可以把自己的破解过程以 PR 的形式分享给到我这里从而帮助更多的人，谢谢！
 
 另外，非常感谢原作者 https://github.com/Aster-the-Med-Stu/XiaoMi-Mini-SSH-Hacking 的贡献。
+
